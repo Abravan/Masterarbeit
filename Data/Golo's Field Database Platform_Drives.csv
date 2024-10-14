@@ -1,0 +1,8 @@
+Drive ID,Vehicle ID,Driver Name,Start (UNIX),End (UNIX),Start (UTC),End (UTC),Date,Duration [Min],IMU,Camera,LiDAR,Day or Night
+1,179,Driver A,1694441010360983300,1694441027560364800,14:03:30,14:03:47,2023-09-11,17 minutes,Available,Available,Not Available,Day
+2,179,Driver B,1688558454165851000,1688558454165851000,12:00:54,12:00:54,2023-07-05,1 minutes,Available,Available,Available,Day
+3,179,Driver C,1701184513278493000,1701185270078523100,15:15:13,15:27:50,2023-11-28,12 minutes,Available,Available,Not Available,Night
+4,179,Driver C,1701185559879049500,1701186287978593500,15:32:39,15:44:47,2023-11-28,12 minutes,Available,Available,Not Available,Night
+5,179,Driver C,1701189030233206300,1701189868133170200,16:30:30,16:44:28,2023-11-28,14 minutes,Available,Available,Not Available,Night
+6,179,Driver C,1701625790760047600,1701627625866738000,17:49:50,18:20:25,2023-12-03,31 minutes,Available,Available,Not Available,Night
+7,179,Driver C,1701628190965484500,1701628835662316800,18:29:50,18:40:35,2023-12-03,11 minutes,Available,Available,Not Available,Night
