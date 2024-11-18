@@ -1,8 +1,6 @@
 from transformers import pipeline
 import os
 import pandas as pd
-import time
-
 
 # Get the current directory where the script is running
 current_directory = os.getcwd()
