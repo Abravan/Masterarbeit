@@ -17,7 +17,7 @@ csv_files = [file for file in os.listdir(folder_path) if file.endswith('.csv')]
 dataframes = {}
 
 # Initialize the geocoder with your actual API key
-api_key = '3df64903c6bc4bdaaefc314da1fb93c6'  # Replace with your actual OpenCage API key
+api_key = '3df64903c6bc4bdaaefc314da1fb93c6'  
 geocoder = OpenCageGeocode(api_key)
 
 # Function to convert NMEA latitude/longitude to decimal degrees
